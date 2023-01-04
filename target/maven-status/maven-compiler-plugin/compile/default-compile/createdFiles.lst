@@ -1,0 +1,10 @@
+com\idlal\pengembalian\services\entity\Pengembalian.class
+com\idlal\pengembalian\services\vo\Peminjaman.class
+com\idlal\pengembalian\services\vo\ResponseTemplateVOPinjam.class
+com\idlal\pengembalian\services\repository\PengembalianRepository.class
+com\idlal\pengembalian\services\vo\ResponseTemplateVO.class
+com\idlal\pengembalian\services\controller\PengembalianController.class
+com\idlal\pengembalian\services\PengembalianServicesApplication.class
+com\idlal\pengembalian\services\vo\Anggota.class
+com\idlal\pengembalian\services\vo\Buku.class
+com\idlal\pengembalian\services\service\PengembalianService.class
